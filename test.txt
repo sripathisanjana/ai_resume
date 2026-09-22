@@ -1,4 +1,4 @@
-hello my name is Sanjana , and im learning how to work with GitHub,
+hello my name is Sanjana , and im learning how to work with github
 
 
-edited from local
+edited from github
